@@ -1,6 +1,6 @@
 {
-  "name": "hyper-solarized-dark",
-  "version": "0.1.1",
+  "name": "@gnhuy91/hyper-solarized-dark",
+  "version": "0.1.2",
   "description": "Hyper theme using the dark Solarized colors",
   "main": "index.js",
   "keywords": [
@@ -14,14 +14,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ghosh/hyper-solarized-dark.git"
+    "url": "git+https://github.com/gnhuy91/hyper-solarized-dark.git"
   },
-  "author": "Indrashish Ghosh",
+  "author": "Huy Giang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Ghosh/hyper-solarized-dark/issues"
+    "url": "https://github.com/gnhuy91/hyper-solarized-dark/issues"
   },
-  "homepage": "https://github.com/Ghosh/hyper-solarized-dark#readme",
+  "homepage": "https://github.com/gnhuy91/hyper-solarized-dark#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
